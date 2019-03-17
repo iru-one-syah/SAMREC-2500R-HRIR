@@ -11,3 +11,7 @@ The photo below shows the dummy head we used during HRIR measurements in the ane
 <p align="center">
   <img width="43%" src="SAMREC-2500R.jpg">
 </p>
+
+### Outline of HRIR Measurement
+
+The measurements consist of the left and right ear impulse responses (IRs) from a TASCAM VL-S3 loudspeaker placed about 1.5 meters from the center of the dummy head.

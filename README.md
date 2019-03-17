@@ -29,5 +29,5 @@ You can download Our HRIRs from the link below:
 The half-[hanning window](https://en.wikipedia.org/wiki/Hann_function) was applied to the HRIRs to eliminate any possible reflections as suggested by Kanji Watanabe in his paper ([K. Watanabe *et al.*, 2014](https://www.jstage.jst.go.jp/article/ast/35/3/35_E1368/_article)). Figure below shows the measured HRIRs for the left and right ears.
 
 <p align="center">
-  <img width="83%" src="fig-3.jpg">
+  <img width="89%" src="fig-3.jpg">
 </p>

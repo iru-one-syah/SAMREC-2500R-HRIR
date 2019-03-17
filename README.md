@@ -4,4 +4,4 @@ This page aims at making a set of measured HRIR of SAMREC Type 2500R available f
 
 ### Dummy Head: SAMREC Type 2500R
 
-The photo below shows the dummy head I usually use. HRIR measurements were made the anechoic room in the Department of Computer Science and Electrical Engineering at Kumamoto University - JAPAN.
+The photo below shows the dummy head we used during HRIR measurements in the anechoic room of the Department of Computer Science and Electrical Engineering at Kumamoto University - JAPAN.

@@ -31,3 +31,9 @@ The half-[hanning window](https://en.wikipedia.org/wiki/Hann_function) was appli
 <p align="center">
   <img width="93%" src="fig-3.jpg">
 </p>
+
+The change of HRIRs is sinusoidal because the arrival time depends on the distance from the loudspeaker to the ear.
+
+<p align="center">
+  <img width="93%" src="fig-4.jpg">
+</p>

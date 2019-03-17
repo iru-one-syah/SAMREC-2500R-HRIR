@@ -22,7 +22,7 @@ The measurements consist of left and right ear [impulse response](https://en.wik
 
 ## Download HRIR Data
 
-You can download Our HRIRs from the link below:
+You can download our HRIRs from the link below:
 
 - [SAMREC-2500R-HRIR-Dataset.zip](https://docs.google.com/uc?export=download&id=1sE_hguW_fbdW51SlPPxAww8DdEMBSjqM)
 

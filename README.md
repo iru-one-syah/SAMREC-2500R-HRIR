@@ -37,3 +37,5 @@ The change of HRIRs is sinusoidal because the arrival time depends on the distan
 <p align="center">
   <img width="93%" src="fig-4.jpg">
 </p>
+
+HRTFs vary according to sound source direction.

@@ -14,4 +14,4 @@ The photo below shows the dummy head we used during HRIR measurements in the ane
 
 ### Outline of HRIR Measurement
 
-The measurements consist of left and right ear impulse responses (IRs) from a TASCAM VL-S3 loudspeaker placed about 1.5 meters from the center of the dummy head.
+The measurements consist of left and right ear impulse responses (IRs) from a TASCAM VL-S3 loudspeaker placed about 1.5m from the center of the dummy head.

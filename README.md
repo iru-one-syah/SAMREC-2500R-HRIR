@@ -6,4 +6,4 @@ This page aims at making a set of measured [HRIR](https://en.wikipedia.org/wiki/
 
 ### Dummy Head: SAMREC Type 2500R
 
-The photo below shows the dummy head we used during HRIR measurements in the anechoic room of the Department of Computer Science and Electrical Engineering at Kumamoto University - JAPAN.
+The photo below shows the dummy head we used during HRIR measurements in the anechoic room of the Department of Computer Science and Electrical Engineering at Kumamoto University - JAPAN. For more detailed specifications, check the following link: [https://shop.miyaji.co.jp/SHOP/ka-r-021716-ay04.html](https://shop.miyaji.co.jp/SHOP/ka-r-021716-ay04.html)

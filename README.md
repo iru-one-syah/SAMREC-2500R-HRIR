@@ -19,3 +19,11 @@ The measurements consist of left and right ear [impulse response](https://en.wik
 <p align="center">
   <img width="53%" src="fig-2.jpg">
 </p>
+
+## Download HRIR Data
+
+You can download Our HRIRs from the link below:
+
+- [SAMREC-2500R-HRIR-Dataset.zip](https://docs.google.com/uc?export=download&id=1sE_hguW_fbdW51SlPPxAww8DdEMBSjqM)
+
+Note: The half-hanning window was applied to the HRIRs in order to eliminate possible reflections as suggested by Kanji Watanabe in his paper (K. Watanabe et al., 2014).

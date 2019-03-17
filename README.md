@@ -26,4 +26,4 @@ You can download Our HRIRs from the link below:
 
 - [SAMREC-2500R-HRIR-Dataset.zip](https://docs.google.com/uc?export=download&id=1sE_hguW_fbdW51SlPPxAww8DdEMBSjqM)
 
-Note: The half-hanning window was applied to the HRIRs in order to eliminate possible reflections as suggested by Kanji Watanabe in his paper (K. Watanabe et al., 2014).
+Note: The half-hanning window was applied to the measured HRIRs in order to eliminate possible reflections as suggested by Kanji Watanabe in his paper (K. Watanabe et al., 2014).
